@@ -22,7 +22,7 @@ The SGX Download Project is designed to download financial data files from a spe
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:ntrg1317/sgx_downloader.git
    cd data_mini_test
    ```
 
